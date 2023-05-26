@@ -43,4 +43,3 @@ public class MultiplyMatrix {
         System.out.println(Arrays.deepToString(result).replace("],", "]\n"));
     }
 }
-
