@@ -24,6 +24,4 @@ public class SumOfEvenNumbers {
 
             return sum;
         }
-//        throw new UnsupportedOperationException();
     }
-
